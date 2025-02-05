@@ -1,7 +1,7 @@
 ---
 name: Custom report template
 about: A template for posting reports
-title: ''
+title: 'test'
 labels: ''
 assignees: ildopetrijunior
 
