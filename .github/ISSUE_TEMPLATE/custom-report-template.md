@@ -9,13 +9,11 @@ title: 'report title'
 *Explain in detail.*
 
 **Where it happens**
-*Possible Component:*
-    *SettingsComponent*
-*Path:*
-    *HomePage/Config*
+*Possible Component: "SettingsComponent"*
+*Path: "HomePage/Config"*
 
 **Expected Behavior**
-What should happen?
+*What should happen?*
 
 **Medias**
-If possible, provide a media
+*If possible, provide a media*
