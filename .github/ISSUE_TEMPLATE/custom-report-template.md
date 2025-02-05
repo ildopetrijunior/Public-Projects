@@ -1,12 +1,21 @@
 ---
 name: Custom report template
 about: A template for posting reports
-title: 'test'
-labels: ''
-assignees: ildopetrijunior
-
-
-test
+title: 'report title'
 ---
 
-test
+
+**Report Description**
+*Explain in detail.*
+
+**Where it happens**
+*Possible Component:*
+    *SettingsComponent*
+*Path:*
+    *HomePage/Config*
+
+**Expected Behavior**
+What should happen?
+
+**Medias**
+If possible, provide a media
